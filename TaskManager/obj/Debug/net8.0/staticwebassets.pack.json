@@ -5,10 +5,6 @@
       "PackagePath": "staticwebassets\\TaskManager.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\wwwroot\\appDbContext.cs",
-      "PackagePath": "staticwebassets\\appDbContext.cs"
-    },
-    {
       "Id": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
