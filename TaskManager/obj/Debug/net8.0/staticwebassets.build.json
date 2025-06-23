@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WXXpRXS2CeVI/MiH38vMj60Mx5BuDvxkSwZonhkXykM=",
+  "Hash": "OK0nixe0UZzM2h4XeCKWgtAYQ2r8DvQJpUERWRExPAQ=",
   "Source": "TaskManager",
   "BasePath": "_content/TaskManager",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TaskManager.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\wwwroot\\appDbContext.cs",
+      "SourceId": "TaskManager",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\wwwroot\\",
+      "BasePath": "_content/TaskManager",
+      "RelativePath": "appDbContext.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\appDbContext.cs"
     },
     {
       "Identity": "C:\\Users\\Aluno\\Documents\\ligth\\SSZ\\ASP.NET\\TaskManager\\wwwroot\\css\\site.css",
